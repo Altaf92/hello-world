@@ -1,0 +1,1 @@
+const line = "this is a new javascript File."; 
